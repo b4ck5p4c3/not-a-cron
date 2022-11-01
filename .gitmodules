@@ -1,0 +1,3 @@
+[submodule "3rdparty/qcron"]
+	path = 3rdparty/qcron
+	url = https://github.com/b4ck5p4c3/qcron.git
